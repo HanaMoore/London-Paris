@@ -1,4 +1,13 @@
 body {
-  background-image: url(webMAcontemp.png);
   background-color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
 }
