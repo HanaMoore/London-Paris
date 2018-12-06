@@ -1,0 +1,12 @@
+
+
+<html>
+
+<h1> This website was founded and designed by Hana and Hélène. We have both lived in London and Paris and are keen for our subscribers to have an experience the best of both cities! </h1>
+
+<h2> We cater to all budgets - whether you are looking for cheap stay in a bohemian hostel to a 5* hotel in the city centre! </h2>
+
+
+<button id="mybutton" onclick="buttonGotClicked()">Twitter</button>
+<button id="mybutton2" onclick="changeColor()">Facebook</button>
+<button id="mybutton3" onclick="changeColor()">Instagram</button>
